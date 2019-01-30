@@ -1,0 +1,2 @@
+"use strict";var name="Sean";document.write("Hello there "+name+"!!");
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uanMiXSwibmFtZXMiOlsibmFtZSIsImRvY3VtZW50Iiwid3JpdGUiXSwibWFwcGluZ3MiOiJhQUFBLElBQU1BLEtBQU8sT0FBYkMsU0FBVUMsTUFBRyxlQUFiRixLQUFBIiwiZmlsZSI6Im1haW4uanMiLCJzb3VyY2VzQ29udGVudCI6WyJjb25zdCBuYW1lID0gXCJTZWFuXCI7XG5cbmRvY3VtZW50LndyaXRlKCdIZWxsbyB0aGVyZSAnICsgbmFtZSArJyEhJyk7Il19
