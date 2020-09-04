@@ -27,6 +27,6 @@
     "gulp-uglify": "^3.0.1",
     "imagemin-jpeg-recompress": "^6.0.0",
     "imagemin-pngquant": "^7.0.0",
-    "node-sass": "^4.11.0"
+    "node-sass": "^4.13.1"
   }
 }
